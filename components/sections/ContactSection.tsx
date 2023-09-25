@@ -10,7 +10,7 @@ const ContactSection = () => {
           marginWidth={0}
           title="map"
           scrolling="no"
-          src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+          src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=mohali &amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
           style={{ filter: "grayscale(1) contrast(1.2) opacity(0.4)" }}
         />
       </div>
@@ -20,7 +20,7 @@ const ContactSection = () => {
             Feedback
           </h2>
           <p className="leading-relaxed mb-5 text-gray-600">
-            Post-ironic portland shabby chic echo park, banjo fashion axe
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt.
           </p>
           <div className="relative mb-4">
             <label htmlFor="email" className="leading-7 text-sm text-gray-600">
@@ -47,12 +47,11 @@ const ContactSection = () => {
               defaultValue={""}
             />
           </div>
-          <button className="text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
-            Button
+          <button className="text-white bg-green-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-900 rounded text-lg">
+            Submit
           </button>
           <p className="text-xs text-gray-500 mt-3">
-            Chicharrones blog helvetica normcore iceland tousled brook viral
-            artisan.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
       </div>
