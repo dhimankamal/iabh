@@ -7,7 +7,7 @@ const TeamSection = () => {
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
           Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-          gentrify, subway tile poke farm-to-table. Franzen you probably haven't
+          gentrify, subway tile poke farm-to-table. Franzen you probably have not
           heard of them.
         </p>
       </div>
