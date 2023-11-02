@@ -10,11 +10,7 @@ export default function HeroSection() {
             Indian Association of Behavioural Healthcare
           </h1>
           <p className="mb-8 leading-relaxed text-xl">
-            Meggings kinfolk echo park stumptown DIY, kale chips beard jianbing
-            tousled. Chambray dreamcatcher trust fund, kitsch vice godard
-            disrupt ramps hexagon mustache umami snackwave tilde chillwave ugh.
-            Pour-over meditation PBR&amp;B pickled ennui celiac mlkshk freegan
-            photo booth af fingerstache pitchfork.
+          Indian Association of Behavioural Healthcare (IABH) is a collaborative community designed to unite professionals within the field of mental health, disability and other allied health. Committed to advancing the field, this association serves as a platform for knowledge exchange, professional development, and collective actions
           </p>
         </div>
       </div>
