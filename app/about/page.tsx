@@ -1,13 +1,12 @@
+import Header from "@/components/ui/Header";
 import Link from "next/link";
 import React from "react";
 
 export default function AboutPage() {
   return (
     <section className="container mx-auto space-y-4 text-center">
-        <div className="py-8 bg-gray-200">
-        <h1 className="text-3xl font-bold">About Us</h1>
-        </div>
-     
+      <Header title="About us" />
+
       <p>
         Indian Association of Behavioural Healthcare (IABH) is a collaborative
         community designed to unite professionals within the field of mental

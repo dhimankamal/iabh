@@ -74,7 +74,7 @@ const Footer = () => {
           MEETINGS & PUBLICATIONS
           </h2>
           <nav className="list-none mb-10">
-            <li>
+            {/* <li>
               <a className="text-gray-600 hover:text-gray-800">Early Career Marathon: Integrating Research and Practice 2023</a>
             </li>
             <li>
@@ -82,22 +82,22 @@ const Footer = () => {
             </li>
             <li>
               <a className="text-gray-600 hover:text-gray-800">Applied Psychology Around the World (APAW)k</a>
-            </li>
+            </li> */}
             <li>
               <a className="text-gray-600 hover:text-gray-800">Journals</a>
             </li>
             <li>
               <a className="text-gray-600 hover:text-gray-800">Webinars</a>
             </li>
-            <li>
+            {/* <li>
               <a className="text-gray-600 hover:text-gray-800">Call for Bids - ICAP 2030</a>
             </li>
             <li>
               <a className="text-gray-600 hover:text-gray-800">ICAP 2026</a>
-            </li>
+            </li> */}
           </nav>
         </div>
-        <div className="lg:w-1/4 md:w-1/2 w-full px-6">
+        {/* <div className="lg:w-1/4 md:w-1/2 w-full px-6">
           <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
             MAJOR INITIATIVE
           </h2>
@@ -118,7 +118,7 @@ const Footer = () => {
               <a className="text-gray-600 hover:text-gray-800">COVID-19 Corner</a>
             </li>
           </nav>
-        </div>
+        </div> */}
       </div>
     </div>
     <div className="bg-gray-100">
