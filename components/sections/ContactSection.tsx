@@ -19,9 +19,7 @@ const ContactSection = () => {
           <h2 className="text-gray-900 text-lg mb-1 font-medium title-font">
             Get in touch
           </h2>
-          <p className="leading-relaxed mb-5 text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt.
-          </p>
+         
           <div className="relative mb-4">
             <label htmlFor="email" className="leading-7 text-sm text-gray-600">
               Email
