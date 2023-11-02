@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const Navbar = () => {
   return (
@@ -13,7 +14,7 @@ const Navbar = () => {
           />
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 hover:text-gray-900">About IABH</a>
+          <Link href="/about" className="mr-5 hover:text-gray-900">About IABH</Link>
           <a className="mr-5 hover:text-gray-900">IABH Division</a>
           <a className="mr-5 hover:text-gray-900">IABH Program</a>
           <a className="mr-5 hover:text-gray-900">Membership</a>
