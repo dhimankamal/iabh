@@ -31,7 +31,7 @@ export async function POST(request: Request) {
         "<br /> message - " +
         message,
     };
-    transporter.sendMail(mailData, (err, info) => {
+     transporter.sendMail(mailData, (err, info) => {
         console.log("infoerr", err)
       if (err) {
         error = err;
