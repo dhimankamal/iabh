@@ -89,10 +89,54 @@ const Navbar: NextPage<Props> = ({}) => {
     {
       name: "IABH Program",
       href: "/",
+      options: [
+        {
+          name: "Research and Publications",
+          href: "/",
+        },
+        {
+          name: "Awareness Programs",
+          href: "/",
+        },
+        {
+          name: "Professional Trainings",
+          href: "/",
+        },
+        {
+          name: "Workshops",
+          href: "/",
+        },
+        {
+          name: "Annual Conferences",
+          href: "/",
+        },
+        {
+          name: "Monitoring",
+          href: "/",
+        },
+      ],
     },
     {
       name: "Membership",
       href: "/",
+      options: [
+        {
+          name: "Professional Life Membership",
+          href: "/",
+        },
+        {
+          name: "Student Membership",
+          href: "/",
+        },
+        {
+          name: "Institutional Membership",
+          href: "/",
+        },
+        {
+          name: "Allied Membership",
+          href: "/",
+        },
+      ],
     },
     {
       name: "Events",
