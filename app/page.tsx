@@ -3,6 +3,7 @@ import EventSection from "@/components/sections/EventSection";
 import ContactSection from "@/components/sections/ContactSection";
 import HeroSection from "@/components/sections/HeroSection";
 import CounterSection from "@/components/sections/CounterSection";
+import PartnerSection from "@/components/sections/PartnerSection";
 
 export default function Home() {
   return (
@@ -10,6 +11,10 @@ export default function Home() {
       <HeroSection />
       <CounterSection />
       <EventSection />
+      {/* <PartnerSection /> */}
+      <TeamSection />
+      <TeamSection />
+      <TeamSection />
       <TeamSection />
       <ContactSection />
     </main>
